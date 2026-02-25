@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hai👋 What's up?</h1>
 
 ###
 
@@ -51,12 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bayuapriansyah.bayuapriansyah&"  />
 </div>
 
 ###
