@@ -11,10 +11,6 @@
 
 ###
 
-<p align="left">An Informatics student with a strong interest in web development and technology, especially in building fullstack applications from frontend to backend. I have experience working with PHP (Laravel) and JavaScript, and I continuously improve my skills by developing projects. Currently, I am exploring modern technologies like React.js and Next.js while also strengthening my understanding of backend architecture, database design, and API development. I enjoy learning by doing, solving problems, and debugging code because every challenge helps me grow and think more logically. My goal is to become a reliable Fullstack Web Developer who can build efficient, scalable, and impactful applications for real-world needs.</p>
-
-###
-
 <p align="left">✨ Creating bugs since 2023  <br>📚 Currently learning Laravel, Golang, and Web Development  <br>🎯 Goals: Become a professional Software Developer and build impactful applications  <br>🎲 Fun fact: More excited fixing bugs than creating them wkwk</p>
 
 ###
