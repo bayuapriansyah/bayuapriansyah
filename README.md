@@ -55,6 +55,8 @@
 
 ###
 
+![Snake animation](https://github.com/bayuapriansyah/bayuapriansyah/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://raw.githubusercontent.com/bayuapriansyah/bayuapriansyah/output/snake.svg" alt="Snake animation" />
 
 ###
