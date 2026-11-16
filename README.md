@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Bayu Apriansyah Putra and I am a Software Developer from Indonesia.</p>
+<p align="left">My name is Bayu Apriansyah Putra and I am a Software Engineer from Indonesia.</p>
 
 ###
 
